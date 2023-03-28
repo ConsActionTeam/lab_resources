@@ -30,7 +30,8 @@ Conference presentations range from 10-15 minutes. Here are some useful tips dis
 4. Practice, practice, practice - set up a time to practice in a lab meeting, practice with friends outside of research as well
 5. Refine - incorporate any feedback and last minute changes before a final practice.
 6. Present - it's showtime! Take a deep breath, you know your work better than anyone else.
-7. Reflect - afterwards reflect on what went well and what you could potentially improve for next time. Follow up with 8. Follow up - after the conference, reach out to any contacts you may have made from the conference interested in your work
+7. Reflect - afterwards reflect on what went well and what you could potentially improve for next time. 
+8. Follow up - after the conference, reach out to any contacts you may have made from the conference interested in your work
 
 # Useful resources
 
