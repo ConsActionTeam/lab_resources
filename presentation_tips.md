@@ -9,6 +9,7 @@ Conference presentations range from 10-15 minutes. Here are some useful tips dis
 5. Keep slides simple (~1 slide/minute of presentation), limit words on slides
 6. Be conscious of your speed. Most people tend to go too fast (but some can also over compensate and go too slow).
 7. Thoroughly explain figures/graphs (What are the axes? What do the colors mean?) - bring the audience with you, this is likely their first time seeing your work.
+8. Take your time in answering questions. It is OK to repeat the question to make sure you understood or have the person rephrase. There is much on this topic we could cover later!
 
 
 # Why present at a conference?
