@@ -1,6 +1,6 @@
 # Tips for successful conference presentations
 
-Conference presentations range from 10-15 minutes. Here are some useful tips discussed at our lab meeting (March 2023)
+Conference presentations range from 10-15 minutes. Here are some useful tips discussed at a recent Seascape models lab meeting (March 2023)
 
 1. Know your audience and tailor to them
 2. Don't get stuck in the weeds. Bring it back to the big picture.
