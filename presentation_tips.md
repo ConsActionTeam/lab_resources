@@ -10,6 +10,7 @@ Conference presentations range from 10-15 minutes. Here are some useful tips dis
 6. Be conscious of your speed. Most people tend to go too fast (but some can also over compensate and go too slow).
 7. Thoroughly explain figures/graphs (What are the axes? What do the colors mean?) - bring the audience with you, this is likely their first time seeing your work.
 8. Take your time in answering questions. It is OK to repeat the question to make sure you understood or have the person rephrase. There is much on this topic we could cover later!
+9. Follow up - after the conference, reach out to any contacts you may have made from the conference interested in your work. Send a copy of the paper you discussed or continue a conversation, etc.
 
 
 # Why present at a conference?
@@ -21,6 +22,7 @@ Conference presentations range from 10-15 minutes. Here are some useful tips dis
 5. Get a new perspective on your work - presenting can help you plan out a new research topic or bring you back to the big picture of a project you have worked on for years.
 6. Get experience and confidence in public speaking to different audiences
 
+
 # Steps in creating a presentation
 
 1. Storyboard - before you get to creating slides map out your story
@@ -31,7 +33,7 @@ Conference presentations range from 10-15 minutes. Here are some useful tips dis
 5. Refine - incorporate any feedback and last minute changes before a final practice.
 6. Present - it's showtime! Take a deep breath, you know your work better than anyone else.
 7. Reflect - afterwards reflect on what went well and what you could potentially improve for next time. 
-8. Follow up - after the conference, reach out to any contacts you may have made from the conference interested in your work
+
 
 # Useful resources
 
