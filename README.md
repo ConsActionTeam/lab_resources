@@ -1,6 +1,6 @@
 # Lab meeting resources
 
-We currently join the Seascape models lab meetings. These meetinsg are fortnightly and often cover practical topics related to research, teaching and service. In many cases useful resources are shared. This repository acts as an archive for these resources to revisit in the future.
+We currently join the Seascape models lab meetings. These meetings are fortnightly and often cover practical topics related to research, teaching and service. In many cases useful resources are shared. This repository acts as an archive for these resources to revisit in the future.
 
 - [Presentation tips](presentation_tips.md)
 
